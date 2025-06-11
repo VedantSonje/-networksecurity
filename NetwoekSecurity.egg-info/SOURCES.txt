@@ -5,7 +5,6 @@ NetwoekSecurity.egg-info/SOURCES.txt
 NetwoekSecurity.egg-info/dependency_links.txt
 NetwoekSecurity.egg-info/requires.txt
 NetwoekSecurity.egg-info/top_level.txt
-networksecurity/__init__.py
 networksecurity/cloud/__init__.py
 networksecurity/components/__init__.py
 networksecurity/components/data_ingestion.py
